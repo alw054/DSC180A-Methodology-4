@@ -1,9 +1,11 @@
 # DSC 180A Methodology Assignment 4
 
 **Name:** Alisha Wang
+
 **Email:** alw054@ucsd.edu
 
 **Section:** D03
+
 **Mentor:** Professor Benjamin Smarr
 
 ## Quarter 2 Project Brainstorm
