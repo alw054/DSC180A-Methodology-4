@@ -5,7 +5,6 @@
 
 **Section:** D03
 **Mentor:** Professor Benjamin Smarr
-# DSC 180A Methodology Assignment 4
 
 ## Quarter 2 Project Brainstorm
 
